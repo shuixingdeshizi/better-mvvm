@@ -1,3 +1,2 @@
-# rollup-build-template
+# Better-mvvm
 
-支持umd打包
